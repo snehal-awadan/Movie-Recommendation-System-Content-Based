@@ -3,7 +3,7 @@
 A simple Content-Based Movie Recommendation System built with Python, Streamlit, and TMDb API.
 The app suggests movies similar to the one selected by the user and fetches their posters dynamically from TMDb.
 
-✨** Features:**
+✨**Features:**
 
 1) Recommends top 5 similar movies based on content similarity.
 2) Fetches movie posters using TMDb API.
